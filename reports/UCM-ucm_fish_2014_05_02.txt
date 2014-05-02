@@ -1,0 +1,76 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 73
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-02 ; Times: 2
+	Date: 2014-04-03 ; Times: 1
+	Date: 2014-04-06 ; Times: 2
+	Date: 2014-04-16 ; Times: 1
+	Date: 2014-04-23 ; Times: 1
+	Date: 2014-04-27 ; Times: 2
+	Date: 2014-04-28 ; Times: 10
+	Date: 2014-04-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Leuciscus orcutti" ; Times: 1
+	Query: "Catostomus santaanae" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 13
+	Query: "IU" ; Times: 1
+	Query: "xyrauchen" ; Times: 1
+	Query: "Sternopygus macrurus" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: ""ictalurus melas"" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 1
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "IU fishes" ; Times: 1
+	Query: "hoplias malabaricus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 433 download events in this period)
+Total number of records downloaded: 123 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 72
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:lepomis" ; Times: 2
+	Query: "University of Michigan Museum Zoology" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 25
+Total number of records retrieved from searches: 73
+Number of download events that retrieved data from the resource: 3
+Total number of records downloaded: 123
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 25
+Total number of records retrieved from searches: 73
+Number of download events that retrieved data from the resource: 3
+Total number of records downloaded: 123
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
