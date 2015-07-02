@@ -1,0 +1,68 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oncorhynchus aguabonita" ; Times: 1
+	Query: "coris gaimard" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1524 download events in this period)
+Total number of records downloaded: 74 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 64
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Illinois" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "country:"United States" genus:Ictalurus" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "country:"United States" genus:ictalurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 82
+Total number of records retrieved from searches: 185
+Number of download events that retrieved data from the resource: 14
+Total number of records downloaded: 101
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 83
+Total number of records retrieved from searches: 187
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 450
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
