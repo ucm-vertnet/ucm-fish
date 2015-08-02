@@ -1,0 +1,75 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pristis pectinata" ; Times: 3
+	Query: "snake utah" ; Times: 1
+	Query: "stateprovince:"new york" genus:margariscus year >= 1850 year <= 2014" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:margarita year >= 1850 year <= 2014" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1084 download events in this period)
+Total number of records downloaded: 101 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 77
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 3
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Guanajuato" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "AGUASCALIENTES" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 88
+Total number of records retrieved from searches: 194
+Number of download events that retrieved data from the resource: 24
+Total number of records downloaded: 202
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 89
+Total number of records retrieved from searches: 196
+Number of download events that retrieved data from the resource: 39
+Total number of records downloaded: 551
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
