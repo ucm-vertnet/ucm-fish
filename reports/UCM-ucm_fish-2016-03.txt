@@ -1,0 +1,37 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Forbesichthys agassizii" ; Times: 1
+	Query: "giraffe" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 230 download events in this period)
+Total number of records downloaded: 117
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Actinopterygii country:&#34;Guyana&#34;" ; Times: 1
+
+
+End of report.
