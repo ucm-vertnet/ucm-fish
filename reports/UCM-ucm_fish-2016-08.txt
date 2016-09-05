@@ -1,0 +1,96 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 380
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 121
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-16 ; Times: 22
+	Date: 2016-08-19 ; Times: 15
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 70
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Lepomis auritus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 2
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 4
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 30
+	Query: "scientificname:Dorosoma cepedianum country:United States mappable:1" ; Times: 4
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 3
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:fuscus genus:Bathygobius" ; Times: 1
+	Query: "class:Osteichthyes type:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "specificepithet:chiliensis genus:Sarda" ; Times: 2
+	Query: "scientificname:Lepomis cyanellus country:United States mappable:1" ; Times: 1
+	Query: "Dunkleosteus" ; Times: 1
+	Query: "scientificname:Lepomis megalotis country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Lepomis microlophus country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Dorosoma petenense country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Lepomis gulosus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 1
+	Query: "scientificname:Lepomis macrochirus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 7
+	Query: "specificepithet:lalandi genus:Seriola" ; Times: 1
+	Query: "scientificname:Centrarchus macropterus country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Morone chrysops country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Pomoxis annularis country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 1
+	Query: "specificepithet:rufus genus:Bodianus" ; Times: 1
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 2
+	Query: "specificepithet:macrochirus genus:Lepomis" ; Times: 3
+	Query: "scientificname:Lepomis humilis country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:congestum genus:Moxostoma" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 5
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 2
+	Query: "scientificname:Aphredoderus sayanus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 2
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:petimba genus:Fistularia" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 1
+	Query: "specificepithet:foetens genus:Synodus" ; Times: 1
+	Query: "scientificname:Lepomis punctatus country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Amia calva country:United States mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 924 download events in this period)
+Total number of records downloaded: 54
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Catostomus santaanae" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "guanajuato" ; Times: 3
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "catostomus santaanae" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+
+
+End of report.
