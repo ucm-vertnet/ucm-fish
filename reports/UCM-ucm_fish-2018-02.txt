@@ -1,0 +1,99 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 281
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Canada ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 6
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 14
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-22 ; Times: 4
+	Date: 2018-02-07 ; Times: 4
+	Date: 2018-02-06 ; Times: 9
+	Date: 2018-02-05 ; Times: 5
+	Date: 2018-02-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(45.9394632175,-94.9810641095))&lt;22927" ; Times: 4
+	Query: "stateprovince:&#34;Aguascalientes&#34; country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 4
+	Query: "Potamotrygon motoro" ; Times: 2
+	Query: "63298" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(45.259052436225,-93.979293029214))&lt;21143" ; Times: 4
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 4
+	Query: "distance(location,geopoint(45.935151399,-95.4601457))&lt;30782" ; Times: 4
+	Query: "amiiformes" ; Times: 1
+	Query: "Ctenochaetus hawaiiensis" ; Times: 1
+	Query: "Oreochromis placidus" ; Times: 1
+	Query: "scientificname:&#34;hypophthalmichthys nobilis&#34;" ; Times: 1
+	Query: "Acipenseriformes" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (pan)" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 3
+	Query: "giraffe" ; Times: 2
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "&#34;Oreochromis mossambicus&#34;" ; Times: 1
+	Query: "acipenseriformes" ; Times: 3
+	Query: "metynnis" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 5
+	Query: "distance(location,geopoint(44.824335823,-93.2719965115))&lt;6844" ; Times: 4
+	Query: "genus:Gila stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "hemichromis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1892 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oncorhynchus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "family:Apteronotidae continent:South America mappable:1" ; Times: 1
+	Query: "Potamotrygon motoro" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "genus:Gila stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+
+
+End of report.
