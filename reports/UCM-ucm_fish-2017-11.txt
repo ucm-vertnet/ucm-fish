@@ -1,0 +1,46 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 5
+	Date: 2017-11-25 ; Times: 2
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:peruanus" ; Times: 2
+	Query: "Salvelinus alpinus" ; Times: 2
+	Query: "salvelinus alpinus" ; Times: 3
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "&#34;Schilbe mystus&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1101 download events in this period)
+Total number of records downloaded: 356
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:salmonidae" ; Times: 1
+	Query: "&#34;Schilbe mystus&#34;" ; Times: 1
+
+
+End of report.
