@@ -1,0 +1,136 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 1481
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-12 ; Times: 8
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-06 ; Times: 13
+	Date: 2018-04-09 ; Times: 5
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-16 ; Times: 5
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Prosopium williamsoni) country:United States mappable:1" ; Times: 1
+	Query: "genus:Xyrauchen" ; Times: 1
+	Query: "pristobrycon" ; Times: 2
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "fish zacatecas" ; Times: 1
+	Query: "gila cypha" ; Times: 1
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 1
+	Query: "petrocephalus" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "specificepithet:carlottae" ; Times: 1
+	Query: "Actinopterygii zacatecas" ; Times: 1
+	Query: "Monopterus albus" ; Times: 2
+	Query: "pristobrycon aureus" ; Times: 1
+	Query: "ANABLEPIDAE" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "scientificname:(Gila pandora) country:United States mappable:1" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Lates niloticus" ; Times: 4
+	Query: "scientificname:(Noturus flavus) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus clarkii mappable:1" ; Times: 14
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 1
+	Query: "pristobrycon calmoni" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "genus:Margariscus" ; Times: 1
+	Query: "Gila cypha" ; Times: 1
+	Query: "Hoplerythrinus" ; Times: 1
+	Query: "type family:gobiidae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1359 download events in this period)
+Total number of records downloaded: 327
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 24
+	Country: Argentina ; Times: 6
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-24 ; Times: 21
+	Date: 2018-04-15 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Rutilus rutilus" ; Times: 2
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "distance(location,geopoint(46.23388,-89.53725))&lt;50000" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "Heptapteridae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "distance(location,geopoint(46.21111,-89.47825))&lt;50000" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+
+
+End of report.
