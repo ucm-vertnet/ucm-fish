@@ -1,0 +1,79 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 40
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 2
+	Country: Netherlands ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 5
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Naso hexacanthus" ; Times: 2
+	Query: "Oreochromis andersonii" ; Times: 1
+	Query: "Gila bicolor" ; Times: 5
+	Query: "blue gill fish" ; Times: 2
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "psychrolutes" ; Times: 1
+	Query: "pierce county fish" ; Times: 1
+	Query: "gadiformes hasmedia:1" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "distance(location,geopoint(45.2768308818963,-93.7703836750571))&lt;20247" ; Times: 1
+	Query: "distance(location,geopoint(44.8059502237725,-93.415851845333))&lt;12831" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(44.8059502237725,-93.184175766894))&lt;11834" ; Times: 1
+	Query: "Ctenochaetus hawaiiensis" ; Times: 2
+	Query: "distance(location,geopoint(45.1023002453255,-93.167236335211))&lt;12793" ; Times: 1
+	Query: "lebiasina" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 2
+	Query: "Lebiasina bimaculata" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1169 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "chihuahua" ; Times: 2
+	Query: "blue gill fish" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "coyote" ; Times: 1
+
+
+End of report.
