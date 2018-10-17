@@ -1,0 +1,65 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 56
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-23 ; Times: 3
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-18 ; Times: 3
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;marin&#34; stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1850 year &lt;= 1930" ; Times: 1
+	Query: "Agosia chrysogaster cochise" ; Times: 1
+	Query: "county:&#34;marin&#34; stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1850 year &lt;= 1950" ; Times: 1
+	Query: "Oreochromis mortimeri" ; Times: 1
+	Query: "24 August 1997" ; Times: 1
+	Query: "CM 11717" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "locality:green rock" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "Hyphessobrycon rosaceus" ; Times: 1
+	Query: "Lycodinae" ; Times: 1
+	Query: "Hypophthalmichthys" ; Times: 1
+	Query: "county:&#34;marin&#34; stateprovince:&#34;california&#34; recordedby:snyder" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 977 download events in this period)
+Total number of records downloaded: 259
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Comal county" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 3
+
+
+End of report.
