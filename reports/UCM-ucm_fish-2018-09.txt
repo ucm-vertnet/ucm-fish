@@ -1,0 +1,74 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 55
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 10
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dasyatis" ; Times: 1
+	Query: "catalognumber:7000 institutioncode:UCM" ; Times: 2
+	Query: "Leporinus fasciatus" ; Times: 1
+	Query: "hoplerythrinus" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;california&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "genus:Snyderichthys specificepithet:copei" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 1
+	Query: "monopterus" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "gasterosteus california vntype:specimen" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "Hemichromis fasciatus" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "body size" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 846 download events in this period)
+Total number of records downloaded: 70
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
