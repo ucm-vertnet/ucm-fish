@@ -1,0 +1,65 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 32
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-03 ; Times: 4
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-15 ; Times: 10
+	Date: 2018-10-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hippocampus hippocampus mappable:1" ; Times: 1
+	Query: "Oncorhynchus clarkii lewisi mappable:1" ; Times: 1
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "Hippocampus hudsonius" ; Times: 1
+	Query: "Syngnathus fuscus mappable:1" ; Times: 1
+	Query: "Hippocampus guttulatus" ; Times: 2
+	Query: "order:Characiformes hasmedia:1" ; Times: 2
+	Query: "Canthidermis sufflamen" ; Times: 1
+	Query: "Syngnathus fuscus" ; Times: 1
+	Query: "(grunniens)" ; Times: 1
+	Query: "Hippocampus zosterae mappable:1" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "Hippocampus hudsonius mappable:1" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "lates niloticus" ; Times: 4
+	Query: "Hippocampus zosterae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1300 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "fish quintana roo" ; Times: 1
+
+
+End of report.
