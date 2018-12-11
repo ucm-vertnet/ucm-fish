@@ -1,0 +1,99 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 137
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Unknown ; Times: 15
+	Country: Italy ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-23 ; Times: 3
+	Date: 2018-11-06 ; Times: 5
+	Date: 2018-11-05 ; Times: 5
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-15 ; Times: 1
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-25 ; Times: 6
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 3
+	Date: 2018-11-30 ; Times: 33
+	Date: 2018-11-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "specificepithet:vomer genus:selene mappable:1" ; Times: 1
+	Query: "specificepithet:nobilis genus:hypophthalmichthys mappable:1" ; Times: 1
+	Query: "&#34;Trichopodus trichopterus&#34; OR &#34;Trichogaster trichopterus&#34;" ; Times: 3
+	Query: "specificepithet:estor genus:chirostoma mappable:1" ; Times: 2
+	Query: "Fistularia petimba mappable:1" ; Times: 1
+	Query: "Dentex dentex mappable:1" ; Times: 1
+	Query: "Bathyraja parmifera mappable:1" ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus mappable:1" ; Times: 2
+	Query: "sander" ; Times: 1
+	Query: "gasterosteus california snyder" ; Times: 1
+	Query: "Anoplagonus inermis mappable:1" ; Times: 1
+	Query: "Agonopsis vulsa mappable:1" ; Times: 1
+	Query: "&#34;Esox masquinongy&#34;" ; Times: 1
+	Query: "genus:Snyderichthys specificepithet:copei" ; Times: 4
+	Query: "specificepithet:sabina genus:dasyatis mappable:1" ; Times: 1
+	Query: "specificepithet:marina genus:strongylura mappable:1" ; Times: 1
+	Query: "Centrophorus squamosus mappable:1" ; Times: 1
+	Query: "Acipenser medirostris mappable:1" ; Times: 1
+	Query: "Ammodytes hexapterus mappable:1" ; Times: 1
+	Query: "specificepithet:marinus genus:bagre mappable:1" ; Times: 1
+	Query: "&#34;Pseudorasbora parva&#34;" ; Times: 3
+	Query: "specificepithet:chiliensis genus:sarda mappable:1" ; Times: 1
+	Query: "Chiasmodon niger mappable:1" ; Times: 1
+	Query: "Bagre marinus mappable:1" ; Times: 1
+	Query: "specificepithet:trutta genus:salmo mappable:1" ; Times: 2
+	Query: "specificepithet:cephalus genus:mugil mappable:1" ; Times: 3
+	Query: "specificepithet:rendalli genus:tilapia mappable:1" ; Times: 4
+	Query: "centrophorus" ; Times: 2
+	Query: "specificepithet:plumieri genus:scorpaena mappable:1" ; Times: 1
+	Query: "Brevoortia tyrannus mappable:1" ; Times: 1
+	Query: "specificepithet:chrysoptera genus:orthopristis mappable:1" ; Times: 1
+	Query: "specificepithet:molitrix genus:hypophthalmichthys mappable:1" ; Times: 1
+	Query: "genus:Hippocampus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Entosphenus" ; Times: 1
+	Query: "specificepithet:lucius genus:esox mappable:1" ; Times: 4
+	Query: "&#34;Pristobrycon calmoni&#34;" ; Times: 1
+	Query: "Etmopterus pusillus mappable:1" ; Times: 1
+	Query: "Alosa aestivalis" ; Times: 1
+	Query: "genus:Entosphenus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Anguilla rostrata mappable:1" ; Times: 1
+	Query: "Esox lucius mappable:1" ; Times: 1
+	Query: "specificepithet:cyanoguttatus genus:herichthys mappable:1" ; Times: 1
+	Query: "&#34;Pristobrycon aureus&#34;" ; Times: 1
+	Query: "specificepithet:carpio genus:cyprinus mappable:1" ; Times: 4
+	Query: "specificepithet:faber genus:chaetodipterus mappable:1" ; Times: 1
+	Query: "lates niloticus" ; Times: 2
+	Query: "specificepithet:hudsonius genus:hippocampus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1719 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Pseudorasbora parva&#34;" ; Times: 1
+	Query: "&#34;Pristobrycon calmoni&#34;" ; Times: 1
+
+
+End of report.
