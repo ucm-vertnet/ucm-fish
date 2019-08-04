@@ -1,0 +1,80 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 366
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 7
+	Country: Argentina ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 7
+	Date: 2019-07-08 ; Times: 16
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-05 ; Times: 5
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Amia" ; Times: 1
+	Query: "Lama" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "genus:Anguilla specificepithet:rostrata" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "ORCHID" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Odontognathus specificepithet:mucronatus" ; Times: 1
+	Query: "genus:Snyderichthys specificepithet:copei" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 5
+	Query: "gbifdatasetid:8934ad0c-f762-11e1-a439-00145eb45e9a" ; Times: 3
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "scientificname:(Gila cypha) country:United States mappable:1" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "acipenser" ; Times: 1
+	Query: "scientificname:(Gila elegans) country:United States mappable:1" ; Times: 1
+	Query: "oryzias latipes" ; Times: 1
+	Query: "Lamna" ; Times: 1
+	Query: "vntype:specimen genus:oncorhynchus lengthinmm &gt;= 200 lengthinmm &lt;= 10000 haslength:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 985 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+
+
+End of report.
