@@ -1,0 +1,79 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 113
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 23
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 23
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-27 ; Times: 3
+	Date: 2019-08-25 ; Times: 4
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eigenmannia virescens" ; Times: 1
+	Query: "Mystus rhegma" ; Times: 1
+	Query: "etheostoma cragini" ; Times: 1
+	Query: "specificepithet:lupus genus:Ictalurus" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: "Pellona flavipinnis" ; Times: 1
+	Query: "Bryconamericus peruanus" ; Times: 1
+	Query: "genus:Snyderichthys specificepithet:copei" ; Times: 1
+	Query: "Gnathonemus" ; Times: 1
+	Query: "Hemibagrus nemurus" ; Times: 1
+	Query: "natural genus:gasterosteus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "Pristis pECTINATA" ; Times: 1
+	Query: "Mystus cavasius" ; Times: 1
+	Query: "Apteronotus albifrons" ; Times: 1
+	Query: "Pygocentrus piraya" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 3
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "gasterosteus year &gt;= 1800 year &lt;= 1910" ; Times: 1
+	Query: "oncorhynchus clarkii henshawi" ; Times: 1
+	Query: "hendrys creek" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 2
+	Query: "Gymnotus carapo" ; Times: 1
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Tetragonopterus chalceus" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 3
+	Query: "Chalceus macrolepidotus" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;santa cruz&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "Hypophthalmus edentatus" ; Times: 2
+	Query: "PRISTIS PEROTTETI" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1034 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
