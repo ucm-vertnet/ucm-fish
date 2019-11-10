@@ -1,0 +1,74 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Germany ; Times: 3
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 4
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "gasterosteus washington" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "vitreus Sander" ; Times: 4
+	Query: "genus:gasterosteus county:&#34;monterey&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "Protopterus dolloi" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 4
+	Query: "punctatus specificepithet:punctatus stateprovince:&#34;Texas&#34; year &gt;= 2010 year &lt;= 2019" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 1990" ; Times: 1
+	Query: "Entosphenus tridentatus mappable:1" ; Times: 1
+	Query: "Scarus psittacus" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;santa cruz&#34; stateprovince:&#34;california&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1073 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "chihuahua" ; Times: 2
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+
+
+End of report.
