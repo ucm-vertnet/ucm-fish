@@ -1,0 +1,76 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 63
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 10
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-24 ; Times: 13
+	Date: 2019-10-01 ; Times: 3
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 5
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "Bathyraja parmifera" ; Times: 2
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "notropis blennius" ; Times: 2
+	Query: "asper Cottus" ; Times: 2
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 2
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Sawfish" ; Times: 2
+	Query: "Etmopterus pusillus" ; Times: 2
+	Query: "Centrophorus squamosus" ; Times: 2
+	Query: "order:polypteriformes hasmedia:1" ; Times: 2
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Pristis perotteti" ; Times: 1
+	Query: "Salvelinus fontinalis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "sawfish" ; Times: 1
+	Query: "vntype:specimen order:polypteriformes basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "ucm maryland" ; Times: 1
+	Query: "invasive species" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1308 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "platypus" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+
+
+End of report.
