@@ -1,0 +1,83 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 149
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 20
+	Country: United Kingdom ; Times: 7
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 38
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 8
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-05 ; Times: 8
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-22 ; Times: 8
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 2
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 2
+	Query: "chrysogaster Agosia" ; Times: 1
+	Query: "specificepithet:Menidia menidia" ; Times: 1
+	Query: "genus:Carcharhinus (jaw) institutioncode:UCM" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "scientificname:Leuresthes tenuis mappable:1" ; Times: 1
+	Query: "scientificname:Menidia menidia mappable:1" ; Times: 17
+	Query: "orchid" ; Times: 3
+	Query: "specificepithet:exilicauda genus:Lavinia county:&#34;Santa Clara&#34;" ; Times: 1
+	Query: "namaycush Salvelinus" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 3
+	Query: "mykiss Oncorhynchus" ; Times: 3
+	Query: "scientificname:Menidia beryllina mappable:1" ; Times: 6
+	Query: "scientificname:Chirostoma patzcuaro mappable:1" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;sonoma&#34;" ; Times: 1
+	Query: "osculus Rhinichthys" ; Times: 1
+	Query: "aculeatus Gasterosteus" ; Times: 1
+	Query: "scientificname:Naso hexacanthus mappable:1" ; Times: 1
+	Query: "Menidia menidia" ; Times: 9
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "scientificname:Chirostoma estor mappable:1" ; Times: 1
+	Query: "scientificname:Menidia peninsulae mappable:1" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 4
+	Query: "Strongylura marina mappable:1" ; Times: 2
+	Query: "Selene vomer mappable:1" ; Times: 2
+	Query: "Barbonymus gonionotus." ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 3
+	Query: "genus:gasterosteus county:&#34;santa cruz&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1584 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:exilicauda genus:Lavinia county:&#34;Santa Clara&#34;" ; Times: 1
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+
+
+End of report.
