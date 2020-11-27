@@ -1,0 +1,65 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 71
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: France ; Times: 47
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-27 ; Times: 4
+	Date: 2019-12-26 ; Times: 7
+	Date: 2019-12-21 ; Times: 17
+	Date: 2019-12-20 ; Times: 7
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-22 ; Times: 2
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-19 ; Times: 8
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 2
+	Query: "genus:gasterosteus county:&#34;sonoma&#34;" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 5
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 3
+	Query: "Strongylura marina mappable:1" ; Times: 10
+	Query: "Odontoscion dentex mappable:1" ; Times: 6
+	Query: "Tilapia sparrmanii" ; Times: 1
+	Query: "Selene vomer mappable:1" ; Times: 3
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "Chaetodipterus faber mappable:1" ; Times: 10
+	Query: "Mugil curema mappable:1" ; Times: 6
+	Query: "zoarcidae" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 2
+	Query: "genus:gasterosteus county:&#34;santa cruz&#34;" ; Times: 2
+	Query: "vntype:specimen locality:Greenland" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 596 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oryzias latipes" ; Times: 1
+
+
+End of report.
