@@ -1,0 +1,79 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 82
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-03 ; Times: 13
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-04 ; Times: 8
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "2-6775" ; Times: 1
+	Query: "scientificname:(Notropis shumardi) country:United States mappable:1" ; Times: 1
+	Query: "-108.55" ; Times: 1
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 1
+	Query: "schell creek" ; Times: 1
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 1
+	Query: "hippocampus zosterae" ; Times: 2
+	Query: "scientificname:(Noturus nocturnus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila cypha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Percina macrolepida) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila elegans) country:United States mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1023 download events in this period)
+Total number of records downloaded: 306
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Guyana ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "platypus" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+
+
+End of report.
