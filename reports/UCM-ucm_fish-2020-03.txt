@@ -1,0 +1,63 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 30
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-11 ; Times: 3
+	Date: 2020-03-12 ; Times: 4
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "CMNH 67" ; Times: 1
+	Query: "caenotropus" ; Times: 1
+	Query: "specificepithet:Lucius genus:Esox hasmedia:1" ; Times: 2
+	Query: "Gymnocorymbus ternetzi" ; Times: 2
+	Query: "genus:gasterosteus county:&#34;monterey&#34;" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "Scarus psittacus mappable:1" ; Times: 1
+	Query: "(H 59-40 harrison)" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "Sarda chiliensis" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla hasmedia:1" ; Times: 1
+	Query: "specificepithet:Atromaculatus genus:Semotilus basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "gasterosteus microcephalus" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 853 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "caenotropus" ; Times: 1
+
+
+End of report.
