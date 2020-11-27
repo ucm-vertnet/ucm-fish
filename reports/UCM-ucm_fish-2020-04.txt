@@ -1,0 +1,193 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 900
+Number of records retrieved in searches: 4874
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 852
+	Country: United States ; Times: 24
+	Country: Mexico ; Times: 22
+	Country: Lithuania ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-03 ; Times: 71
+	Date: 2020-04-07 ; Times: 233
+	Date: 2020-04-13 ; Times: 11
+	Date: 2020-04-11 ; Times: 7
+	Date: 2020-04-10 ; Times: 7
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 8
+	Date: 2020-04-14 ; Times: 15
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-21 ; Times: 255
+	Date: 2020-04-26 ; Times: 3
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-08 ; Times: 283
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Coregonus artedi) country:United States mappable:1" ; Times: 1
+	Query: "tc 1897" ; Times: 2
+	Query: "Blepsias cirrhosus" ; Times: 3
+	Query: "Esox lucius" ; Times: 10
+	Query: "Bryconops affinis" ; Times: 6
+	Query: "Brevoortia tyrannus" ; Times: 4
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "Barbonymus altus" ; Times: 5
+	Query: "Pseudocrenilabrus" ; Times: 5
+	Query: "Hemibagrus nemurus" ; Times: 12
+	Query: "Serranochromis" ; Times: 3
+	Query: "Osteochilus vittatus" ; Times: 5
+	Query: "Oncorhynchus clarkii" ; Times: 8
+	Query: "Sargochromis" ; Times: 5
+	Query: "phylum:chordata country:mozambique" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 29
+	Query: "Mystus cavasius" ; Times: 7
+	Query: "Squalidus japonicus" ; Times: 7
+	Query: "Amatitlania nigrofasciata" ; Times: 2
+	Query: "Sternopygus macrurus" ; Times: 8
+	Query: "Gymnotus carapo" ; Times: 8
+	Query: "phylum:chordata country:Mozambique" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 14
+	Query: "Oreochromis macrochir" ; Times: 22
+	Query: "Limanda aspera" ; Times: 5
+	Query: "Polypterus senegalus" ; Times: 4
+	Query: "Oreochromis aureus" ; Times: 22
+	Query: "Oncorhynchus kisutch" ; Times: 8
+	Query: "Gobio gobio" ; Times: 7
+	Query: "Ptychocheilus oregonensis" ; Times: 2
+	Query: "scientificname:(Etheostoma asprigene) country:United States mappable:1" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 21
+	Query: "Chalceus macrolepidotus" ; Times: 8
+	Query: "scientificname:(Etheostoma collettei) country:United States mappable:1" ; Times: 1
+	Query: "Bryconamericus peruanus" ; Times: 5
+	Query: "Lampetra planeri" ; Times: 2
+	Query: "Leptocottus armatus" ; Times: 5
+	Query: "Eigenmannia virescens" ; Times: 6
+	Query: "Margariscus margarita" ; Times: 7
+	Query: "Pellona flavipinnis" ; Times: 8
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "scientificname:(Fundulus sciadicus) country:United States mappable:1" ; Times: 1
+	Query: "Apareiodon affinis" ; Times: 4
+	Query: "USNM 71509" ; Times: 2
+	Query: "Lavinia exilicauda" ; Times: 14
+	Query: "Hatch Utah" ; Times: 3
+	Query: "Chetia" ; Times: 8
+	Query: "Astyanax mexicanus" ; Times: 5
+	Query: "Labiobarbus lineatus" ; Times: 5
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "scientificname:(Esox americanus vermiculatus) country:United States mappable:1" ; Times: 1
+	Query: "Ameiurus melas" ; Times: 10
+	Query: "Metynnis hypsauchen" ; Times: 7
+	Query: "Oreochromis mossambicus" ; Times: 22
+	Query: "Trichopodus trichopterus" ; Times: 5
+	Query: "Hypostomus plecostomus" ; Times: 6
+	Query: "Puntioplites proctozystron" ; Times: 9
+	Query: "Channa striata" ; Times: 5
+	Query: "Dionda episcopa" ; Times: 4
+	Query: "Moenkhausia lepidura" ; Times: 2
+	Query: "Hampala dispar" ; Times: 4
+	Query: "Clupea pallasii" ; Times: 5
+	Query: "Salvelinus alpinus" ; Times: 5
+	Query: "Labeo chrysophekadion" ; Times: 5
+	Query: "Gila pandora" ; Times: 7
+	Query: "Oncorhynchus keta" ; Times: 8
+	Query: "Sander vitreus" ; Times: 4
+	Query: "scientificname:(Notropis bifrenatus) country:United States mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "Mozambique" ; Times: 2
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Gila nigrescens" ; Times: 7
+	Query: "Hoplias malabaricus" ; Times: 11
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "Rhamdia quelen" ; Times: 14
+	Query: "Leuciscus leuciscus" ; Times: 14
+	Query: "Ctenopharyngodon idella" ; Times: 7
+	Query: "Platichthys stellatus" ; Times: 4
+	Query: "scientificname:(Notropis blennius OR Notropis albeolus) country:United States mappable:1" ; Times: 1
+	Query: "Xenentodon cancila" ; Times: 5
+	Query: "scientificname:(Cyprinodon rubrofluviatilis) country:United States mappable:1" ; Times: 1
+	Query: "Mastacembelus armatus" ; Times: 5
+	Query: "Synbranchus marmoratus" ; Times: 11
+	Query: "Oncorhynchus mykiss" ; Times: 8
+	Query: "Ameiurus catus" ; Times: 12
+	Query: "Cyprinus carpio" ; Times: 16
+	Query: "scientificname:(Fundulus notti) country:United States mappable:1" ; Times: 1
+	Query: "Dorosoma cepedianum" ; Times: 4
+	Query: "Oreochromis andersonii" ; Times: 22
+	Query: "Hemichromis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 10
+	Query: "Gasterosteus aculeatus" ; Times: 15
+	Query: "Phoxinus phoxinus" ; Times: 13
+	Query: "Hypophthalmichthys nobilis" ; Times: 9
+	Query: "Pseudorasbora parva" ; Times: 12
+	Query: "Channa micropeltes" ; Times: 5
+	Query: "chetia" ; Times: 1
+	Query: "Systomus orphoides" ; Times: 4
+	Query: "Apteronotus albifrons" ; Times: 8
+	Query: "Anguilla rostrata" ; Times: 11
+	Query: "scientificname:(Notropis atrocaudalis) country:United States mappable:1" ; Times: 1
+	Query: "Astatotilapia calliptera" ; Times: 18
+	Query: "Cottus cognatus" ; Times: 7
+	Query: "Ichthyomyzon unicuspis" ; Times: 2
+	Query: "&#34;native species&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Bagrus docmak" ; Times: 4
+	Query: "Hyperopisus bebe" ; Times: 9
+	Query: "Sander canadensis" ; Times: 11
+	Query: "Mystus rhegma" ; Times: 11
+	Query: "scientificname:(Notropis spectrunculus) country:United States mappable:1" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 5
+	Query: "Astyanax bimaculatus" ; Times: 6
+	Query: "Hemigrammus gracilis" ; Times: 4
+	Query: "Pygocentrus piraya" ; Times: 6
+	Query: "Aplodinotus grunniens" ; Times: 6
+	Query: "country:&#34;Rhodesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Couesius plumbeus" ; Times: 2
+	Query: "Gila cypha" ; Times: 2
+	Query: "Barbonymus gonionotus" ; Times: 10
+	Query: "Gila robusta" ; Times: 2
+	Query: "Hypophthalmichthys molitrix" ; Times: 9
+	Query: "Serranochromis robustus" ; Times: 22
+	Query: "Scaphiodonichthys acanthopterus" ; Times: 4
+	Query: "Perca flavescens" ; Times: 3
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "Salvelinus malma" ; Times: 5
+	Query: "Mastacembelus mastacembelus" ; Times: 4
+	Query: "Tetragonopterus chalceus" ; Times: 8
+	Query: "Pholis ornata" ; Times: 5
+	Query: "Puntius brevis" ; Times: 5
+	Query: "catalognumber:6129" ; Times: 2
+	Query: "Gymnocorymbus ternetzi" ; Times: 3
+	Query: "Hypophthalmus edentatus" ; Times: 6
+	Query: "Lethenteron appendix" ; Times: 2
+	Query: "Lepomis gibbosus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1171 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Characidium" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+
+
+End of report.
