@@ -1,0 +1,101 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 340
+Number of records retrieved in searches: 3038
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 330
+	Country: Peru ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-17 ; Times: 48
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 110
+	Date: 2020-06-15 ; Times: 61
+	Date: 2020-06-11 ; Times: 111
+
+List of queries that retrieved data from the resource: 
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Mystus rhegma" ; Times: 6
+	Query: "Esox lucius" ; Times: 8
+	Query: "Astatotilapia calliptera" ; Times: 6
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "Barbonymus altus" ; Times: 12
+	Query: "Labiobarbus lineatus" ; Times: 12
+	Query: "Geophagus surinamensis" ; Times: 2
+	Query: "Pristolepis fasciata" ; Times: 6
+	Query: "Xenentodon cancila" ; Times: 12
+	Query: "Osteochilus vittatus" ; Times: 12
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Cichlasoma bimaculatum" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "odontoscion dentex" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 5
+	Query: "Gasterosteus aculeatus" ; Times: 11
+	Query: "Hemibagrus nemurus" ; Times: 6
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Clupeichthys aesarnensis" ; Times: 6
+	Query: "Odontognathus mucronatus" ; Times: 2
+	Query: "Barbonymus gonionotus" ; Times: 12
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "Trichopodus trichopterus" ; Times: 12
+	Query: "Pseudorasbora parva" ; Times: 6
+	Query: "Puntioplites proctozystron" ; Times: 12
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Channa striata" ; Times: 12
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "Oreochromis macrochir" ; Times: 6
+	Query: "Systomus orphoides" ; Times: 6
+	Query: "Hampala dispar" ; Times: 6
+	Query: "Serranochromis robustus" ; Times: 6
+	Query: "Labeo chrysophekadion" ; Times: 12
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "Puntius brevis" ; Times: 6
+	Query: "Salmo trutta" ; Times: 9
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Oreochromis andersonii" ; Times: 6
+	Query: "H. A. Edwards" ; Times: 1
+	Query: "Apionichthys dumerili" ; Times: 2
+	Query: "Salvelinus malma" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 474 download events in this period)
+Total number of records downloaded: 300
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia nobilis" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "salmoninae" ; Times: 1
+
+
+End of report.
