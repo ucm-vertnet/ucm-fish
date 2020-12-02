@@ -1,0 +1,129 @@
+Report for Institution Code UCM, Resource ucm_fish
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 334
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 70
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-25 ; Times: 5
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-06 ; Times: 4
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-04 ; Times: 3
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-02 ; Times: 52
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-01 ; Times: 2
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-26 ; Times: 19
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:colliei genus:Hydrolagus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Apodichthys fucorum" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 3
+	Query: "Lota lota" ; Times: 2
+	Query: "noturus nocturnus" ; Times: 1
+	Query: "Barbus barbus" ; Times: 3
+	Query: "scientificname:(Notropis sabinae) country:United States mappable:1" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Astatotilapia calliptera" ; Times: 1
+	Query: "Sander canadensis" ; Times: 2
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 1
+	Query: "specificepithet:chiliensis genus:Sarda stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acipenser oxyrhynchus" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "Salmo Trutta" ; Times: 1
+	Query: "scientificname:Alosa alosa" ; Times: 5
+	Query: "Dictyosoma burgeri" ; Times: 1
+	Query: "GEOPHAGUS SURINAMENSIS" ; Times: 1
+	Query: "UCM AC" ; Times: 2
+	Query: "Margariscus margarita" ; Times: 1
+	Query: "specificepithet:tridentatus genus:Entosphenus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 3
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Dactyloptena orientalis" ; Times: 2
+	Query: "Clarias gariepinus" ; Times: 3
+	Query: "Squalidus japonicus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Oncorhynchus clarkii" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 2
+	Query: "Coris venusta" ; Times: 2
+	Query: "Couesius plumbeus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 2
+	Query: "Hypophthalmichthys nobilis" ; Times: 2
+	Query: "Thymallus thymallus" ; Times: 1
+	Query: "specificepithet:mykiss stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 2
+	Query: "Ameiurus melas" ; Times: 1
+	Query: "specificepithet:corallinus genus:Artedius stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 2
+	Query: "Ammodytes hexapterus" ; Times: 2
+	Query: "Channa micropeltes" ; Times: 1
+	Query: "specificepithet:medirostris genus:Acipenser stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Chirolophis japonicus" ; Times: 1
+	Query: "Oreochromis macrochir" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 2
+	Query: "Chrosomus eos" ; Times: 2
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "Serranochromis robustus" ; Times: 1
+	Query: "Oreochromis andersonii" ; Times: 1
+	Query: "Salvelinus alpinus" ; Times: 2
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "genus:Morone stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Cottus cognatus" ; Times: 1
+	Query: "Salmo trutta" ; Times: 2
+	Query: "Gobio gobio" ; Times: 4
+	Query: "Entosphenus tridentatus" ; Times: 1
+	Query: "genus:anoplarchus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Bagrus docmak" ; Times: 1
+	Query: "Lethenteron appendix" ; Times: 1
+	Query: "Lepomis gibbosus" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 2
+	Query: "Hyperopisus bebe" ; Times: 1
+	Query: "Oncorhynchus keta" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 842 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "GEOPHAGUS SURINAMENSIS" ; Times: 1
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 1
+	Query: "cope" ; Times: 1
+
+
+End of report.
